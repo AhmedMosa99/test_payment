@@ -1,0 +1,29 @@
+PODS:
+  - expresspay_sdk (0.0.1):
+    - ExpressPaySDK (~> 1.1.2)
+    - Flutter
+  - ExpressPaySDK (1.1.2)
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - expresspay_sdk (from `.symlinks/plugins/expresspay_sdk/ios`)
+  - Flutter (from `Flutter`)
+
+SPEC REPOS:
+  trunk:
+    - ExpressPaySDK
+
+EXTERNAL SOURCES:
+  expresspay_sdk:
+    :path: ".symlinks/plugins/expresspay_sdk/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  expresspay_sdk: 02ad6a6279fed2ccc00dbf1aede144d28e9f98c0
+  ExpressPaySDK: c5dc1c85469602b4161b5f0c4f72db690cd89633
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+
+PODFILE CHECKSUM: 70d9d25280d0dd177a5f637cdb0f0b0b12c6a189
+
+COCOAPODS: 1.12.1
